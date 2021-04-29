@@ -1,2 +1,3 @@
-# token-list
-token-list
+# CSwap Token List
+
+See https://github.com/Uniswap/token-lists or https://tokenlists.org/.
